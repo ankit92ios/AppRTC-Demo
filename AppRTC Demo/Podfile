@@ -1,0 +1,5 @@
+
+target 'demo' do
+  pod 'libjingle_peerconnection'
+  pod 'SocketRocket'
+end
